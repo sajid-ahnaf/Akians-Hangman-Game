@@ -1,0 +1,22 @@
+const wordList = [
+            { word: "du", hint: "Oldest and largest public university in Bangladesh, located in Dhaka - Motto/More: Speaks volumes in academics, culture, and history. Interestingly, doesn't find its voice in a formal motto – the strength lies in actions. Which University?" },
+            { word: "buet", hint: "Premier institution for higher studies in engineering and architecture, located in Dhaka - Motto/More: Development of Humanity through Science and Technology. Which University?" },
+            { word: "nsu", hint: "Largest private university in Bangladesh, located in Dhaka - Motto/More: Excellence in Education. Which University?" },
+            { word: "bracu", hint: "Founded by BRAC, one of the largest NGOs in the world, located in Dhaka - Motto/More: Inspired by the Future. Which University?" },
+            { word: "ju", hint: "Located near Dhaka, known for its scenic campus, in Savar - Motto/More: Advancement through Knowledge. Which University?" },
+            { word: "ewu", hint: "One of the earliest private universities in Bangladesh, located in Dhaka - Motto/More: Quality Education at an Affordable Cost. Which University?" },
+            { word: "cu", hint: "Second-oldest university in Bangladesh, located in Chittagong - Motto/More: Education, Establishment, and Progress. Which University?" },
+            { word: "bau", hint: "Specializes in agricultural education and research, located in Mymensingh - Motto/More: Agriculture Builds Nations. Which University?" },
+            { word: "aiub", hint: "Offers American-style education in Bangladesh, located in Dhaka - Motto/More: Where Leaders Are Created. Which University?" },
+            { word: "ku", hint: "Located in Khulna, known for its focus on science and engineering - Motto/More: To Seek, To Know, To Serve. Which University?" },
+            { word: "ru", hint: "One of the largest and oldest universities in Bangladesh, located in Rajshahi - Motto/More: The State Language is Bengali. Which University?" },
+            { word: "iub", hint: "Private university with a focus on global education standards, located in Dhaka - Motto/More: Where Leaders Are Nurtured. Which University?" },
+            { word: "bup", hint: "Specializes in professional military and civilian education, located in Dhaka - Motto/More: Reality and Achievements. Which University?" },
+            { word: "iu", hint: "Located in Kushtia, dedicated to Islamic studies - Motto/More: History, Ideals, and Our Mission. Which University?" },
+            { word: "diu", hint: "Known for its emphasis on IT and business education, located in Dhaka - Motto/More: Your Career, Our Mission. Which University?" },
+            { word: "ru", hint: "A public university in the city of Rajshahi - Motto/More: Does not find an official Motto/More: Prominent institution known for its diverse academic programs, scenic campus, research contributions, and cultural significance in the city of Rajshahi. Which University?" },
+            { word: "cuet", hint: "Focuses on engineering and architecture education, located in Chittagong - Motto/More: Power, Dignity, Electricity, and Technology. Which University?" },
+            { word: "sust", hint: "Located in Sylhet, known for its emphasis on science and technology - Motto/More: Knowledge, Thought, Action. Which University?" },
+            { word: "iiuc", hint: "A private university with an Islamic educational focus, located in Chittagong - Motto/More: Light in Islamic History. Which University?" },
+            { word: "bou", hint: "The only public university in Bangladesh for distance education, located in Gazipur - Motto/More: Education for All. Which University?" }
+        ];
